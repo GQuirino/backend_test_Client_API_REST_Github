@@ -1,0 +1,21 @@
+{
+  "name": "apigithub-test-backend",
+  "version": "1.0.0",
+  "description": "API REST Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd tests && mocha routes-test",
+    "start": "node app"
+  },
+  "author": "Quirino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "mocha": "^5.2.0"
+  }
+}
