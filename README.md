@@ -1,5 +1,3 @@
 ## Guilherme Quirino de Melo
 
-[Backend] Shaw and Partners
-
-Live app: https://apigithub-test-quirino.herokuapp.com
+Consume GitHub API and Unit tests
